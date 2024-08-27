@@ -37,5 +37,4 @@ public class Article {
     public String getContent() {
         return content;
     }
-
 }
